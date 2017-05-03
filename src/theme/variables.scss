@@ -51,7 +51,7 @@ $colors: (
 // Material Design only Sass variables can go here
 
 // Use the primary color as the background for the toolbar-md-background
-$toolbar-md-background:                   color($colors, primary);
+$toolbar-md-background:                   color($colors, danger);
 
 // Change the color of the segment button text
 $toolbar-md-active-color:                 #fff;
