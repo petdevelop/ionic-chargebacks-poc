@@ -13,6 +13,7 @@ import { SignupPage } from '../signup/signup';
   selector: 'page-user',
   templateUrl: 'login.html'
 })
+
 export class LoginPage {
   login: {username?: string, password?: string} = {};
   submitted = false;
